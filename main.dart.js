@@ -62198,7 +62198,7 @@ j=q.e
 s=j==null
 r=s?p:j.c
 j=s?p:j.a
-return new A.uV(new A.qq(n,new A.Ji(p,p,1/0,56),p),new A.EP(B.cZ,A.eV(A.c([new A.uT(q.gUR(),m,p),B.aA,l,B.aA,new A.Ea(k,p),B.aA,new A.E9(k,r,j,p),B.aA,A.Ro(p,A.dl("Developed by denzokarma",p,p,p,A.d3(p,p,A.aA(4288090642),p,B.vD,p,p,p,p,p,p,14,p,p,B.az,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.aN,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p),B.Jl],o),B.L,B.J,B.z),p),p)}}
+return new A.uV(new A.qq(n,new A.Ji(p,p,1/0,56),p),new A.EP(B.cZ,A.eV(A.c([new A.uT(q.gUR(),m,p),B.aA,l,B.aA,new A.Ea(k,p),B.aA,new A.E9(k,r,j,p),B.aA,A.Ro(p,A.dl("This app provides salary estimates for informational purposes only and is not an official government calculator.",p,p,p,A.d3(p,p,A.aA(4288090642),p,B.vD,p,p,p,p,p,p,14,p,p,B.az,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.aN,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p),B.Jl],o),B.L,B.J,B.z),p),p)}}
 A.a6a.prototype={
 $0(){this.a.f=!0},
 $S:0}
