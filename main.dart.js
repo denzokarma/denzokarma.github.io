@@ -62270,7 +62270,7 @@ l(){this.a.toString
 this.aB()},
 L(a){return this.a.c}}
 A.CN.prototype={
-L(a){return new A.tM(B.HE,"Sikkim Government Salary Calculator",A.aaK(B.wz,null,null,B.hL,B.za,!0),!1,null)}}
+L(a){return new A.tM(B.HE,"Sikkim PayMatrix Calculator",A.aaK(B.wz,null,null,B.hL,B.za,!0),!1,null)}}
 A.uU.prototype={
 ah(){return new A.xX()}}
 A.xX.prototype={
@@ -62307,7 +62307,7 @@ $S:395}
 A.a6m.prototype={
 $0(){var s=0,r=A.R(t.H),q=this,p
 var $async$$0=A.S(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:p=A.iE("https://www.instagram.com/denzo_karma/",0,null)
+//while(true)switch(s){case 0:p=A.iE("https://www.instagram.com/denzo_karma/",0,null)
 s=5
 return A.V(A.abt(p),$async$$0)
 case 5:s=b?2:4
